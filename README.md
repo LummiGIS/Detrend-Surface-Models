@@ -9,3 +9,5 @@ Using user defined transect lines that cross perpendicular to a river channel th
 Detrend By Voronoi:
 Detrend by Voronoi polygons uses points distrubuted along the river centerline.  Voronoi (Theissen polygons) are created around each point and the lowest elevation within each polygon is used to create the detrended surface.
 
+Detrend By Euclidean Plane:
+Three user-defined x,y,z points define a plane across the extent of the surface.  This plane is used as the detrending surface.
