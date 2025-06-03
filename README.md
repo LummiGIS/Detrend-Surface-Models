@@ -13,7 +13,7 @@ Using user defined transect lines that cross perpendicular to a river channel (o
 
 ### Detrend By Euclidean Plane (Pro v3.3):
 Inputs and outputs: 
-    1.  A featureclass of three non-collinear points.  These points need to be attributed with the z values at the top, bottom, and center of the river channel.
+    1.  A featureclass of three non-collinear points.  These points need to be attributed with the z values at the top, bottom, and center of the area of interest.
     2.  The attribute field name that stores the z values.
     3.  The surface model to detrend.
     4.  The output detrended surface (REM).
