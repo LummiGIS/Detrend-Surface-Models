@@ -1,6 +1,6 @@
 ## Detrend-Surface-Models
-ESRI Toolbox tools to detrend surface models (create relative surface models RSM).  These tools were developed to detrend surface models along river channels.
-These tool include Arc Toolbox tool to detrend surface models using Euclidean plane, by transect lines, and using Voronoi polygons (coming soon).  
+ESRI Toolbox tools to detrend surface models (create relative elevation models REM).  These tools were developed to detrend surface models along river channels.
+These tool include Arc Toolbox tool to detrend surface models using Euclidean plane, by transect lines, and (coming soon to Pro) using Voronoi polygons, and points along thalweg.  
 
 ### Detrend By Cross Sections (3.3):
 Inputs and outputs: 
