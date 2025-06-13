@@ -24,5 +24,5 @@ or this link from Wa DOE on detrending:  https://apps.ecology.wa.gov/publication
 and this link by Dan Coe for a QGIS methods:  https://dancoecarto.com/creating-rems-in-qgis-the-cross-section-method
 
 ### ArcGIS10x tools are available on request.
-Unsure if anyone needs the 10x toolbox but if you write me I can send those to you.
+Unsure if anyone needs the c2006 10x toolbox but if you write me I can send those to you.
 Detrend by Transects, Detrend by Voronoi Polygon, Detrend by Euclidean Plane, Detrend by Points Along Thalweg are included in the 10x toolbox.
