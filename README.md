@@ -26,3 +26,5 @@ and this link by Dan Coe for a QGIS methods:  https://dancoecarto.com/creating-r
 ### ArcGIS10x tools are available on request.
 Unsure if anyone needs the c2006 10x toolbox but if you write me I can send those to you.
 Detrend by Transects, Detrend by Voronoi Polygon, Detrend by Euclidean Plane, Detrend by Points Along Thalweg are included in the 10x toolbox.
+
+These tools are free and open source for geography (FOSS4G) tools released under a Creative Commons Attribution 4.0 International license.
